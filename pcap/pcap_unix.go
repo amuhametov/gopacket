@@ -17,9 +17,9 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/google/gopacket"
+	"github.com/amuhametovgopacket"
 
-	"github.com/google/gopacket/layers"
+	"github.com/amuhametovgopacket/layers"
 )
 
 /*

@@ -14,8 +14,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/google/gopacket"
-	"github.com/google/gopacket/layers"
+	"github.com/amuhametovgopacket"
+	"github.com/amuhametovgopacket/layers"
 )
 
 func TestPcapNonexistentFile(t *testing.T) {
