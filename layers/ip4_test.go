@@ -16,7 +16,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/amuhametovgopacket"
+	"github.com/google/gopacket"
 )
 
 // Test the function getIPv4OptionSize when the ipv4 has no options

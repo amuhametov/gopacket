@@ -10,7 +10,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/amuhametovgopacket/bytediff"
+	"github.com/google/gopacket/bytediff"
 )
 
 var sliceA = []byte{

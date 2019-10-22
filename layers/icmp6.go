@@ -13,7 +13,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/amuhametovgopacket"
+	"github.com/google/gopacket"
 )
 
 const (

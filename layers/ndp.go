@@ -11,7 +11,7 @@ package layers
 
 import (
 	"fmt"
-	"github.com/amuhametovgopacket"
+	"github.com/google/gopacket"
 	"net"
 )
 

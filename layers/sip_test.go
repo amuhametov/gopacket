@@ -9,7 +9,7 @@ package layers
 import (
 	"testing"
 
-	"github.com/amuhametovgopacket"
+	"github.com/google/gopacket"
 )
 
 // First packet is a REGISTER Request

@@ -12,7 +12,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/amuhametovgopacket"
+	"github.com/google/gopacket"
 )
 
 // testPacketDNSRegression is the packet:

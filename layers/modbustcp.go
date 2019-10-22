@@ -11,7 +11,7 @@ package layers
 import (
 	"encoding/binary"
 	"errors"
-	"github.com/amuhametovgopacket"
+	"github.com/google/gopacket"
 )
 
 //******************************************************************************

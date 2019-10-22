@@ -12,7 +12,7 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	"github.com/amuhametovgopacket"
+	"github.com/google/gopacket"
 )
 
 const (

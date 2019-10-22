@@ -13,7 +13,7 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/amuhametovgopacket"
+	"github.com/google/gopacket"
 )
 
 const (

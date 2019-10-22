@@ -9,7 +9,7 @@ package layers
 import (
 	"errors"
 
-	"github.com/amuhametovgopacket"
+	"github.com/google/gopacket"
 )
 
 // TLSAppDataRecord contains all the information that each AppData Record types should have

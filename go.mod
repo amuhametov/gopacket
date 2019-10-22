@@ -1,4 +1,4 @@
-module github.com/amuhametovgopacket
+module github.com/google/gopacket
 
 go 1.12
 

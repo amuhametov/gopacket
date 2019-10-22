@@ -10,7 +10,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/amuhametovgopacket"
+	"github.com/google/gopacket"
 )
 
 // Test packet collected from live network. See the test below for contents

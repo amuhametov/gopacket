@@ -12,7 +12,7 @@ import (
 	"fmt"
 	"runtime"
 
-	"github.com/amuhametovgopacket"
+	"github.com/google/gopacket"
 )
 
 // EnumMetadata keeps track of a set of metadata for each enumeration value
