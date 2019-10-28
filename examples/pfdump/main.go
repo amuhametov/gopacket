@@ -11,9 +11,9 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/google/gopacket/dumpcommand"
-	"github.com/google/gopacket/examples/util"
-	"github.com/google/gopacket/pfring"
+	"github.com/amuhametov/gopacket/dumpcommand"
+	"github.com/amuhametov/gopacket/examples/util"
+	"github.com/amuhametov/gopacket/pfring"
 	"log"
 	"os"
 	"strings"

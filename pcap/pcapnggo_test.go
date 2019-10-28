@@ -13,9 +13,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/google/gopacket"
-	"github.com/google/gopacket/layers"
-	"github.com/google/gopacket/pcapgo"
+	"github.com/amuhametov/gopacket"
+	"github.com/amuhametov/gopacket/layers"
+	"github.com/amuhametov/gopacket/pcapgo"
 )
 
 func TestPCAPGoNgWrite(t *testing.T) {
